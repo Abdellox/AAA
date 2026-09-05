@@ -388,11 +388,14 @@ npx awesome-ai-coding setup --agent gemini
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [gemini-cli](https://github.com/google-gemini/gemini-cli) | 106K | Google's AI agent in your terminal |
-| [codewhale](https://github.com/Hmbown/CodeWhale) | 40K | Open-source coding agent in Rust |
+| [aider](https://github.com/Aider-AI/aider) | 49K | AI pair programming in your terminal |
 | [claurst](https://github.com/Kuberwastaken/claurst) | 10K | Multi-provider terminal coding agent |
-| [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | 12K | Terminal-native AI coding assistant |
+| [cline](https://github.com/cline/cline) | 68K | Autonomous coding agent in your IDE |
+| [codewhale](https://github.com/Hmbown/CodeWhale) | 40K | Open-source coding agent in Rust |
+| [gemini-cli](https://github.com/google-gemini/gemini-cli) | 106K | Google's AI agent in your terminal |
 | [goose](https://github.com/aaif-goose/goose) | 53K | Extensible AI agent for any LLM |
+| [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | 12K | Terminal-native AI coding assistant |
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 86K | Platform for software development agents |
 
 ### Desktop Apps
 
